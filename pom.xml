@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.travelmemory</groupId>
     <artifactId>vagabond-planner</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>vagabond-planner</name>
     <description>Managing Itinerary details of Vagabond</description>
